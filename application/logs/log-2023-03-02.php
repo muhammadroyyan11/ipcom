@@ -1,0 +1,59 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Wp_includes/ID3
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Feed/index
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: 2021/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Wp_includes/ID3
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Feed/index
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Cms/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2023-03-02 03:57:11 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2023-03-02 03:57:12 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2023-03-02 03:57:12 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2023-03-02 03:57:12 --> 404 Page Not Found: 2021/wp_includes
+ERROR - 2023-03-02 03:57:12 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2023-03-02 03:57:12 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2023-03-02 03:57:12 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2023-03-02 03:57:12 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2023-03-02 03:57:12 --> 404 Page Not Found: Cms/wp_includes
+ERROR - 2023-03-02 04:49:35 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /home/ipcom/public_html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2023-03-02 04:49:35 --> Unable to connect to the database
+ERROR - 2023-03-02 04:49:35 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/ipcom/public_html/system/core/Exceptions.php:271) /home/ipcom/public_html/system/core/Common.php 570
+ERROR - 2023-03-02 04:49:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-03-02 05:01:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-03-02 08:36:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-03-02 08:52:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-02 08:52:28 --> 404 Page Not Found: Public/uploads
+ERROR - 2023-03-02 09:01:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-03-02 09:59:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-03-02 13:34:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-03-02 14:30:00 --> 404 Page Not Found: Sftp_configjson/index
+ERROR - 2023-03-02 14:30:00 --> 404 Page Not Found: Ftp/accounts_ftp.json
+ERROR - 2023-03-02 14:30:00 --> 404 Page Not Found: Vscode/sftp.json
+ERROR - 2023-03-02 14:30:00 --> 404 Page Not Found: Vscode/sftp.json.save
+ERROR - 2023-03-02 14:30:00 --> 404 Page Not Found: Vscode/sftp.json~
+ERROR - 2023-03-02 14:30:00 --> 404 Page Not Found: Vscode/sftp_config.json
+ERROR - 2023-03-02 14:30:00 --> 404 Page Not Found: Vscode/sftp_config.save
+ERROR - 2023-03-02 14:30:00 --> 404 Page Not Found: Vscode/sftp_config~
+ERROR - 2023-03-02 15:53:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-03-02 18:52:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-03-02 18:59:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2023-03-02 20:35:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-02 20:46:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-02 22:01:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-03-02 22:01:22 --> 404 Page Not Found: Public/uploads
+ERROR - 2023-03-02 22:01:23 --> 404 Page Not Found: Public/uploads

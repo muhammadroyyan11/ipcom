@@ -1,0 +1,147 @@
+body {
+    padding: 0px;
+    margin-top: 200px;
+    line-height: 1.1em;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: 'Pontano sans', sans-serif;
+    font-size: 15px;
+    color: #000000;
+    background: #ffffff;
+}
+
+/*design table 1*/
+
+.tabel {
+    font-family: 'Pontano sans', sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+}
+
+table.one {
+    border-collapse: collapse;
+    margin-bottom: 18px;
+    line-height: 22px;
+}
+
+table.two {
+    border-collapse: collapse;
+    margin-bottom: 18px;
+    line-height: 22px;
+    margin-left: 320px
+}
+table.three {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
+
+table.empat {
+    border-collapse: collapse;
+    margin-bottom: 18px;
+    line-height: 18px;
+    margin-left: 30px;
+}
+
+table.lima {
+    border-collapse: collapse;
+    margin-bottom: 18px;
+    line-height: 18px;
+}
+
+
+td.x {
+  border: 1px solid black;
+  padding-left: 5px;
+  padding-top: -3px;
+  padding-bottom: 2px;
+}
+
+th.x{
+  border: 1px solid black; 
+  padding-left: 5px;
+  padding-bottom: 0px;
+  height:2.7%;
+}
+
+
+td.a {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000000;
+    padding-top: 0px;
+    padding-left: 5px;
+    padding-bottom: 1px;
+}
+
+td.c{
+    text-indent: 25px;
+}
+
+td.d{
+    line-height: 16px;
+    text-align: justify;
+    vertical-align: top;
+    padding-top: 8px;
+    padding-bottom: -2px;
+}
+
+td.e{
+    vertical-align:top;
+    text-align:justify;
+    line-height: 18px;
+}
+
+td.f{
+    vertical-align:top;
+    line-height: 18px;
+}
+
+td.g{
+    padding-bottom: 0.5px;
+}
+
+td.h{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    padding-bottom: 0.5px;
+}
+
+th.b {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000000;
+    padding: 2px;
+    font-family: 'Pontano sans', sans-serif;
+}
+
+.table1,
+th,
+td {
+    border: 0px solid #999;
+    font-family: 'Pontano sans', sans-serif;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: -5px;
+    padding-right: 0px;
+}
+
+.table2,
+th,
+td {
+    border: 0px solid #999;
+    font-family: 'Pontano sans', sans-serif;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: -5px;
+    padding-right: 0px;
+}
+p.catatan{
+    padding-bottom: -18pt;
+}
+
+p.tembusan{
+    padding-bottom: -12pt;
+    padding-top: -6px;
+}

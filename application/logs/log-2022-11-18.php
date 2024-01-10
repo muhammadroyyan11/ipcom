@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-11-18 00:09:35 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2022-11-18 00:20:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-18 02:05:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-18 02:59:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-18 09:38:57 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2022-11-18 13:23:41 --> 404 Page Not Found: Wp_includes/wlwmanifest.xml
+ERROR - 2022-11-18 13:23:41 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-11-18 13:23:43 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2022-11-18 13:23:43 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2022-11-18 13:23:43 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2022-11-18 13:23:44 --> 404 Page Not Found: Website/wp_includes
+ERROR - 2022-11-18 13:23:44 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2022-11-18 13:23:44 --> 404 Page Not Found: News/wp_includes
+ERROR - 2022-11-18 13:23:45 --> 404 Page Not Found: 2018/wp_includes
+ERROR - 2022-11-18 13:23:47 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2022-11-18 13:23:47 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2022-11-18 13:23:47 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2022-11-18 13:23:48 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2022-11-18 13:23:48 --> 404 Page Not Found: Media/wp_includes
+ERROR - 2022-11-18 13:23:48 --> 404 Page Not Found: Wp2/wp_includes
+ERROR - 2022-11-18 13:23:49 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2022-11-18 13:23:49 --> 404 Page Not Found: Cms/wp_includes
+ERROR - 2022-11-18 13:23:49 --> 404 Page Not Found: Sito/wp_includes
+ERROR - 2022-11-18 15:39:36 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2022-11-18 15:39:36 --> 404 Page Not Found: Well_known/traffic_advice
+ERROR - 2022-11-18 18:28:08 --> 404 Page Not Found: Env/index
+ERROR - 2022-11-18 18:28:10 --> 404 Page Not Found: Core/.env
+ERROR - 2022-11-18 18:38:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-18 18:42:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-18 19:08:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-18 20:44:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-18 21:00:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-11-18 22:34:24 --> 404 Page Not Found: Robotstxt/index

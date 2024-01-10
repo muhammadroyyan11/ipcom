@@ -1,0 +1,23 @@
+[23-Aug-2019 13:36:22 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/siapuirc/public_html/application/controllers/Dosen.php on line 3
+[23-Aug-2019 13:36:54 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/siapuirc/public_html/application/controllers/Mahasiswa.php on line 3
+[23-Aug-2019 14:12:25 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/siapuirc/public_html/application/controllers/Mahasiswa.php on line 3
+[23-Aug-2019 14:59:54 UTC] PHP Fatal error:  Class 'DosenController' not found in /home/siapuirc/public_html/application/controllers/KeteranganAktif.php on line 2
+[23-Aug-2019 15:03:10 UTC] PHP Fatal error:  Class 'DosenController' not found in /home/siapuirc/public_html/application/controllers/KeteranganAktif.php on line 2
+[23-Aug-2019 15:03:26 UTC] PHP Fatal error:  Class 'DosenController' not found in /home/siapuirc/public_html/application/controllers/Penggunadosen.php on line 2
+[23-Aug-2019 15:03:43 UTC] PHP Fatal error:  Class 'DosenController' not found in /home/siapuirc/public_html/application/controllers/Penggunadosen.php on line 2
+[23-Aug-2019 15:06:12 UTC] PHP Fatal error:  Class 'DosenController' not found in /home/siapuirc/public_html/application/controllers/Penggunadosen.php on line 2
+[23-Aug-2019 15:06:14 UTC] PHP Fatal error:  Class 'DosenController' not found in /home/siapuirc/public_html/application/controllers/Penggunadosen.php on line 2
+[23-Aug-2019 15:06:33 UTC] PHP Fatal error:  Class 'DosenController' not found in /home/siapuirc/public_html/application/controllers/Profildb.php on line 3
+[23-Aug-2019 15:07:06 UTC] PHP Fatal error:  Class 'DosenController' not found in /home/siapuirc/public_html/application/controllers/Profildb.php on line 3
+[23-Aug-2019 15:08:38 UTC] PHP Fatal error:  Class 'DosenController' not found in /home/siapuirc/public_html/application/controllers/Profildb.php on line 3
+[23-Aug-2019 15:10:46 UTC] PHP Fatal error:  Class 'DosenController' not found in /home/siapuirc/public_html/application/controllers/Profildb.php on line 3
+[23-Aug-2019 15:10:48 UTC] PHP Fatal error:  Class 'DosenController' not found in /home/siapuirc/public_html/application/controllers/Profildb.php on line 3
+[23-Aug-2019 15:12:13 UTC] PHP Fatal error:  Class 'DosenController' not found in /home/siapuirc/public_html/application/controllers/Profildb.php on line 3
+[23-Aug-2019 15:46:00 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/dompdf/dompdf/dompdf_config.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/siapuirc/public_html/application/libraries/PdfGenerator.php on line 8
+[23-Aug-2019 15:46:19 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/dompdf/dompdf/dompdf_config.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/siapuirc/public_html/application/libraries/PdfGenerator.php on line 8
+[23-Aug-2019 15:46:22 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/dompdf/dompdf/dompdf_config.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/siapuirc/public_html/application/libraries/PdfGenerator.php on line 8
+[23-Aug-2019 15:46:38 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/dompdf/dompdf/dompdf_config.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/siapuirc/public_html/application/libraries/PdfGenerator.php on line 8
+[23-Aug-2019 15:48:00 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/dompdf/dompdf/dompdf_config.inc.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/siapuirc/public_html/application/libraries/PdfGenerator.php on line 8
+[23-Aug-2019 15:54:10 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/siapuirc/public_html/vendor/dompdf/dompdf/include/autoload.inc.php on line 83
+[23-Aug-2019 23:27:43 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/siapuirc/public_html/vendor/dompdf/dompdf/include/autoload.inc.php on line 83
+[23-Aug-2019 23:33:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/siapuirc/public_html/vendor/dompdf/dompdf/include/autoload.inc.php on line 83

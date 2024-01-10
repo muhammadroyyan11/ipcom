@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-05 07:04:20 --> 404 Page Not Found: Debug/default
+ERROR - 2023-01-05 07:04:20 --> 404 Page Not Found: Server_status/index
+ERROR - 2023-01-05 07:04:20 --> 404 Page Not Found: Vscode/sftp.json
+ERROR - 2023-01-05 07:04:20 --> 404 Page Not Found: Telescope/requests
+ERROR - 2023-01-05 07:04:20 --> 404 Page Not Found: Ecp/Current
+ERROR - 2023-01-05 07:04:20 --> 404 Page Not Found: Infophp/index
+ERROR - 2023-01-05 07:04:20 --> 404 Page Not Found: Env/index
+ERROR - 2023-01-05 07:04:20 --> 404 Page Not Found: DS_Store/index
+ERROR - 2023-01-05 07:04:20 --> 404 Page Not Found: Loginaction/index
+ERROR - 2023-01-05 07:04:20 --> 404 Page Not Found: V2/_catalog
+ERROR - 2023-01-05 07:04:20 --> 404 Page Not Found: Api/search
+ERROR - 2023-01-05 07:04:20 --> 404 Page Not Found: Configjson/index
+ERROR - 2023-01-05 07:04:21 --> 404 Page Not Found: Infophp/index
+ERROR - 2023-01-05 07:04:21 --> 404 Page Not Found: Ecp/Current
+ERROR - 2023-01-05 07:04:21 --> 404 Page Not Found: Env/index
+ERROR - 2023-01-05 07:04:21 --> 404 Page Not Found: Debug/default
+ERROR - 2023-01-05 07:04:21 --> 404 Page Not Found: Server_status/index
+ERROR - 2023-01-05 07:04:21 --> 404 Page Not Found: Vscode/sftp.json
+ERROR - 2023-01-05 07:04:21 --> 404 Page Not Found: Telescope/requests
+ERROR - 2023-01-05 07:04:21 --> 404 Page Not Found: DS_Store/index
+ERROR - 2023-01-05 07:04:21 --> 404 Page Not Found: Loginaction/index
+ERROR - 2023-01-05 07:04:21 --> 404 Page Not Found: Api/search
+ERROR - 2023-01-05 07:04:21 --> 404 Page Not Found: V2/_catalog
+ERROR - 2023-01-05 07:04:21 --> 404 Page Not Found: Configjson/index
+ERROR - 2023-01-05 07:04:27 --> 404 Page Not Found: Aws/credentials
+ERROR - 2023-01-05 07:04:48 --> 404 Page Not Found: Wp_configphp_backup/index
+ERROR - 2023-01-05 08:05:40 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2023-01-05 14:06:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-05 20:10:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2023-01-05 22:11:16 --> 404 Page Not Found: Robotstxt/index

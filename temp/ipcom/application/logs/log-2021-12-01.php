@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 02:38:10 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 08:30:32 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 08:30:32 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 08:30:32 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 08:30:32 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 08:30:37 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 08:30:38 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 08:30:39 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 08:30:41 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 08:30:43 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 08:30:45 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 08:30:45 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 08:30:45 --> 404 Page Not Found: Public/uploads
+ERROR - 2021-12-01 08:30:48 --> 404 Page Not Found: Public/uploads
